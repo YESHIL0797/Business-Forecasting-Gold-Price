@@ -1,6 +1,6 @@
 Gold Price Prediction
 
-This repository contains an implementation of a machine learning model for predicting gold prices using R programming. The model is trained on historical gold price data and can be used to make forecasts of future gold prices.
+This repository contains an implementation of a machine learning model for Forecastig gold prices using R programming. The model is trained on historical gold price data and can be used to make forecasts of future gold prices.
 
 Requirements
 To use this code, you will need to have the following software installed on your machine:
