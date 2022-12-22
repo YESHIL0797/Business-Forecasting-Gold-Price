@@ -25,16 +25,16 @@ To use the model, follow these steps:
 4. Run the code in the file to train and evaluate the model.
 5. Use the predict() function to make forecasts of gold prices using the trained model.
 
-Data
+Data:
+
 The data used to train and evaluate the model is contained in the 1979-2021.csv file in the data directory. This file contains gold price data for the period from January 31, 1979 to July 31, 2021.
 
-Results
-The model achieved an accuracy of XX% on the training set and XX% on the test set.
+License:
 
-License
-This code is released under the MIT License.
+This code is released under the Apache License 2.0.
 
-Contact
+Contact:
+
 If you have any questions or suggestions, please don't hesitate to contact me at yeshilbangera18@gmail.com.
 
 
